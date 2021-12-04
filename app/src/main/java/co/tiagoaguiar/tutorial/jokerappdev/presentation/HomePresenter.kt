@@ -15,7 +15,7 @@ class HomePresenter(
         dataSource.findAllCategories(this)
     }
 
-    override fun onSucess(response: List<String>) {
+    override fun onSuccess(response: List<String>) {
         val categories = response.map { Category(it, 0xFFFF0000) }
 
         view.showCategories(categories)

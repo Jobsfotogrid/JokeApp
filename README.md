@@ -22,3 +22,4 @@
  Links úteis:
  * [Picasso](https://github.com/square/picasso)
  * [Groupie](https://github.com/lisawray/groupie)
+ * [Retrofit](https://github.com/square/retrofit)

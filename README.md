@@ -9,14 +9,16 @@
 
  Bibliotecas externas:
  ```
- implementation 'com.xwray:groupie:2.1.0'
- implementation 'com.squareup.picasso:picasso:2.71828'
- implementation 'com.squareup.retrofit2:retrofit:2.5.0'
- implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.5'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
+    implementation "com.github.lisawray.groupie:groupie:2.9.0"
+    implementation 'androidx.core:core-splashscreen:1.0.0-alpha02'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.2.1'
+    implementation 'com.squareup.picasso:picasso:2.71828'
  ```
  
  Links úteis:
- * [Code Beautify](https://codebeautify.org/)
- * [chucknorris.io](https://api.chucknorris.io/)
  * [Picasso](https://github.com/square/picasso)
  * [Groupie](https://github.com/lisawray/groupie)

@@ -4,7 +4,7 @@
 * Ferramenta de desenvolvimento utilizada ```Android Studio```
 * Arquitetura do projeto ```MVP```
 * Permissões do Android Manisfest ```<uses-permission android:name="android.permission.INTERNET" />```
-* Versão do Android ```5.0```
+* Versão do Android ```Android 5.0 (Lollipop)```
 * API ```21```
 
  Bibliotecas externas:

@@ -18,6 +18,8 @@
     implementation 'com.squareup.okhttp3:logging-interceptor:4.2.1'
     implementation 'com.squareup.picasso:picasso:2.71828'
  ```
+ Solicitação do código da api:
+ ```https://api.tiagoaguiar.co/client/benjamimwilly@gmail.com```
  
  Links úteis:
  * [Picasso](https://github.com/square/picasso)

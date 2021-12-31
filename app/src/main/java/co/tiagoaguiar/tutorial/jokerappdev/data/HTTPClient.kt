@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 object HTTPClient {
 
     private const val BASE_URL = "https://api.tiagoaguiar.co/jokerapp/"
-    const val API_KEY = "56417e15-6f63-46a1-acf4-6d9039c5b7be"
+    const val API_KEY = "6562ecdd-4039-44e0-8c50-dd08f3a60e41"
 
     private fun httpClient(): OkHttpClient {
         val logging = HttpLoggingInterceptor()

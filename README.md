@@ -22,11 +22,13 @@
  ```
  https://api.tiagoaguiar.co/client/benjamimwilly@gmail.com
  ```
- Api:
+ Link da api disponivle:
   ```
   https://api.tiagoaguiar.co/jokerapp/jokes/categories?apiKey=6562ecdd-4039-44e0-8c50-dd08f3a60e41
   ```
- 
+  ```
+  https://api.tiagoaguiar.co/jokerapp/jokes/random?apiKey=6562ecdd-4039-44e0-8c50-dd08f3a60e41
+  ```
  Links úteis:
  * [Picasso](https://github.com/square/picasso)
  * [Groupie](https://github.com/lisawray/groupie)

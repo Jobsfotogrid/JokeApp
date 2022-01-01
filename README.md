@@ -22,11 +22,9 @@
  ```
  https://api.tiagoaguiar.co/client/benjamimwilly@gmail.com
  ```
- Link da api disponivle:
+ Rotas e links da api disponivel:
   ```
   https://api.tiagoaguiar.co/jokerapp/jokes/categories?apiKey=6562ecdd-4039-44e0-8c50-dd08f3a60e41
-  ```
-  ```
   https://api.tiagoaguiar.co/jokerapp/jokes/random?apiKey=6562ecdd-4039-44e0-8c50-dd08f3a60e41
   ```
  Links úteis:
